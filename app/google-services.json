@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "416072050613",
+    "firebase_url": "https://mobileapp-ccbd4-default-rtdb.firebaseio.com",
+    "project_id": "mobileapp-ccbd4",
+    "storage_bucket": "mobileapp-ccbd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416072050613:android:3c55aa1d18707bfee91bfc",
+        "android_client_info": {
+          "package_name": "com.midterm22.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjfF54WffOE57BKKaVac9SXTTb1kFWkqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#901111</color>
-    <color name="colorPrimaryDark">#6D0909</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+
     <color name="white">#FFFFFF</color>
     <color name="white_50">#80FFFFFF</color>
     <color name="gray">#888888</color>
@@ -20,5 +21,4 @@
     <color name="card_order">#FF9800</color>
     <color name="card_food">#8C0734</color>
     <color name="card_revenue">#9C27B0</color>
-
 </resources>

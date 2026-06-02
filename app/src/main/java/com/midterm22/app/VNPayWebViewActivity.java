@@ -67,7 +67,6 @@ public class VNPayWebViewActivity extends AppCompatActivity {
             }
 
         });
-        // Tải trang thanh toán
         webView.loadUrl(paymentUrl);
     }
 }

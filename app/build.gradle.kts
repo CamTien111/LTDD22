@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.midterm22.app"
+        applicationId = "com.midterm22 .app"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

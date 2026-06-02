@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#901111</color>
+    <color name="colorPrimaryDark">#6D0909</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="gray">#888888</color>
+    <color name="black">#000000</color>
+    <color name="red">#AF322C</color>
+    <color name="green">#1B5E20</color>
+    <color name="purple_500">#A5D6A7</color>
+
+    <color name="Yellow">#FFF176</color>
+    <color name="Blue">#0E1A7C</color>
+    <color name="Yellow1">#FFC107</color>
+    <color name="Gray">#999999</color>
+    <color name="primary_color">#3FB590</color>
+    <color name="background_grey">#F5F5F5</color>
+    <color name="card_customer">#4CAF50</color>
+    <color name="card_order">#FF9800</color>
+    <color name="card_food">#8C0734</color>
+    <color name="card_revenue">#9C27B0</color>
+
+</resources>

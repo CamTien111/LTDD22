@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LTDD 22"
+rootProject.name = "LTDD"
 include(":app")

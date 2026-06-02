@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">app</string>
     <string name="app_logo">FastFood Logo</string>
-    <string name="login_title">Welcome to PAGODA</string>
+    <string name="login_title">Welcome to PAPAGO</string>
     <string name="email_hint">Email</string>
     <string name="password_hint">Password</string>
     <string name="forgot_password">Forgot Password?</string>
@@ -15,6 +15,6 @@
     <string name="register">REGISTER</string>
     <string name="already_have_account">Already have an account?</string>
     <string name="login_here">Login here</string>
-    <string name="navigation_drawer_open">Mở menu</string>
-    <string name="navigation_drawer_close">Đóng menu</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
 </resources>

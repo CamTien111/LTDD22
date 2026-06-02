@@ -2,8 +2,8 @@
   "project_info": {
     "project_number": "416072050613",
     "firebase_url": "https://mobileapp-ccbd4-default-rtdb.firebaseio.com",
-    "project_id": "mobileapp-ccbd4",
-    "storage_bucket": "mobileapp-ccbd4.firebasestorage.app"
+    "project_id": "mobileapp-ccbd",
+    "storage_bucket": "mobileapp-ccbd.firebasestorage.app"
   },
   "client": [
     {

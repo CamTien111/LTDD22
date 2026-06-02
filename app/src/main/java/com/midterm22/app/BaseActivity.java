@@ -107,9 +107,9 @@ public class BaseActivity extends AppCompatActivity {
     public void onBackPressed() {
         WebView chatbotWebView = findViewById(R.id.chatbotWebView);
         if (chatbotWebView.getVisibility() == View.VISIBLE) {
-            chatbotWebView.setVisibility(View.GONE); // Ẩn WebView thay vì thoát app
+            chatbotWebView.setVisibility(View.GONE);
         } else {
-            super.onBackPressed(); // Thoát như bình thường
+            super.onBackPressed();
         }
     }
 

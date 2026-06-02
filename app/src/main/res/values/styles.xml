@@ -2,8 +2,8 @@
 <resources>
     <!-- Style dùng để chỉnh kích thước chữ trong Navigation Drawer -->
     <style name="DrawerMenuTextStyle" parent="TextAppearance.AppCompat.Body1">
-        <item name="android:textSize">18sp</item> <!-- Bạn có thể tăng lên 20sp nếu muốn to hơn nữa -->
-        <item name="android:textStyle">bold</item> <!-- Tùy chọn, nếu bạn muốn in đậm -->
+        <item name="android:textSize">19sp</item>
+        <item name="android:textStyle">bold</item>
     </style>
     <style name="ToolbarTitleStyle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
         <item name="android:textColor">@android:color/white</item>

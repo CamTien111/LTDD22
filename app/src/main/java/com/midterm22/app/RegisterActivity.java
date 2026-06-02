@@ -106,7 +106,7 @@ public class RegisterActivity extends AppCompatActivity {
         }
 
         if (password.length() < 6) {
-            edtPassword.setError("Password must be at least 6 characters");
+            edtPassword.setError("Password must be at least 4 characters");
             return;
         }
 

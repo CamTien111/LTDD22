@@ -28,17 +28,17 @@ public class VNPayFakeActivity extends AppCompatActivity {
 
         // Cập nhật nội dung hiển thị theo orderId và amount
         tvTransferNote.setText("Nội dung: THANHTOAN_DONHANG_" + orderId);
-        tvAmount.setText(String.format("Số tiền: %,.0f VND", totalAmount));
+        tvAmount.setText(String.format("Số tiền:  %,.0f VND", totalAmount));
         tvStatus.setText("Đang xử lý thanh toán VNPay...");
 
-        // Giả lập xử lý trong 5 giây
+
         new Handler().postDelayed(() -> {
-            boolean isSuccess = Math.random() < 0.9;
+            boolean isSuccess = Math.random() < 0.8;
 
             Intent resultIntent = new Intent();
             resultIntent.putExtra("payment_result", isSuccess ? "success" : "fail");
             setResult(Activity.RESULT_OK, resultIntent);
             finish();
-        }, 5000);
+        }, 6000);
     }
 }
